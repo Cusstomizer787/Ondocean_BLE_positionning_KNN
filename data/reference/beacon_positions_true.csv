@@ -1,0 +1,6 @@
+beacon_id,x_meters,y_meters,note
+60,-8.35,-0.15,"Origine corridor"
+25,3.47,2.20,"Debut zone test"
+53,11.43,3.54,"Centre corridor"
+3,21.46,2.20,"Fin zone test"
+38,25.93,9.70,"Extremite corridor"
